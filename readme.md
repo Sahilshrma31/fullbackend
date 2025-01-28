@@ -1,1 +1,1 @@
-full backend on backend with full backend with javascript
+backend on a streaming platform using javascript
